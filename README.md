@@ -1,2 +1,1 @@
-# learning-linux
-Learning Linux
+# Learning Linux
