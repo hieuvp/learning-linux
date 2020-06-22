@@ -33,6 +33,7 @@
 
 ### Vim - The Improved Editor
 
+1. [ ] [Introduction to Linux Academy - Maximize Your Experience](vim-the-improved-editor/README.md)
 1. [ ] [Vim vs. Vi - What's the Difference?](vim-the-improved-editor/README.md)
 1. [ ] [Vim Packages and Creating Files](vim-the-improved-editor/README.md)
 1. [ ] [Vim Modes](vim-the-improved-editor/README.md)
