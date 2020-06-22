@@ -6,7 +6,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Modes](#modes)
-- [Vim Quickstart](#vim-quickstart)
+- [Quickstart](#quickstart)
 - [Exercise 01 Creating and Editing a New File with Vim](#exercise-01-creating-and-editing-a-new-file-with-vim)
 - [Exercise 01 Creating and Editing a New File with Vim - Walkthrough](#exercise-01-creating-and-editing-a-new-file-with-vim---walkthrough)
 
@@ -14,7 +14,7 @@
 
 ## Modes
 
-## Vim Quickstart
+## Quickstart
 
 ## Exercise 01 Creating and Editing a New File with Vim
 
