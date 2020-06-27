@@ -17,7 +17,7 @@
 
 ### Vim Masterclass
 
-1. [ ] [Course Introduction](vim-masterclass/course-introduction/README.md)
+1. [Course Introduction](vim-masterclass/course-introduction/README.md)
 1. [ ] [Vim Quickstart](vim-masterclass/vim-quickstart/README.md)
 1. [ ] [Vim Essentials](vim-masterclass/vim-essentials/README.md)
 1. [ ] [The Vim Help System](vim-masterclass/the-vim-help-system/README.md)
