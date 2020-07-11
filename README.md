@@ -41,6 +41,8 @@
 
 ## Topics
 
+1. [ ] [Mastering the Vim Language](https://www.youtube.com/watch?v=wlR5gYd6um0)
+
 ## References
 
 - [Vim Masterclass](https://www.udemy.com/course/vim-commands-cheat-sheet)
