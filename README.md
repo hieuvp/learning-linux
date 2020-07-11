@@ -17,11 +17,11 @@
 
 ### `$ vimtutor`
 
-- Practice deliberately by doing `vimtutor` once a day for at least one week straight.
-- Set a goal for yourself, see if you can get through the whole thing in 5 minutes.
-- The point is not to memorize every single command.
-- The point is to practice enough times until
-  the basic navigation and editing commands are second nature.
+1. Practice deliberately by doing `vimtutor` once a day for at least one week straight.
+1. Set a goal for yourself, see if you can get through the whole thing in 5 minutes.
+1. The point is not to memorize every single command.
+1. The point is to practice enough times until
+   the basic navigation and editing commands are second nature.
 
 ### Vim Masterclass
 
