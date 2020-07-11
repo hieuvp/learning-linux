@@ -6,14 +6,22 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Courses](#courses)
+  - [`$ vimtutor`](#-vimtutor)
   - [Vim Masterclass](#vim-masterclass)
-  - [Vim - The Improved Editor](#vim---the-improved-editor)
 - [Topics](#topics)
 - [References](#references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Courses
+
+### `$ vimtutor`
+
+1. Practice deliberately by doing `$ vimtutor` once a day for at least one week straight.
+1. Set a goal for yourself, see if you can get through the whole thing in 5 minutes.
+1. The point is not to memorize every single command.
+1. The point is to practice enough times until
+   the basic navigation and editing commands are second nature.
 
 ### Vim Masterclass
 
@@ -31,22 +39,8 @@
 1. [ ] [Live Q&A Calls](vim-masterclass/live-qa-calls/README.md)
 1. [ ] [Bonus Lecture Section: Get my other courses at the maximum discount!](vim-masterclass/bonus-lecture-section-get-my-other-courses-at-the-maximum-discount/README.md)
 
-### Vim - The Improved Editor
-
-1. [ ] [Introduction to Linux Academy - Maximize Your Experience](vim-the-improved-editor/README.md)
-1. [ ] [Vim vs. Vi - What's the Difference?](vim-the-improved-editor/README.md)
-1. [ ] [Vim Packages and Creating Files](vim-the-improved-editor/README.md)
-1. [ ] [Vim Modes](vim-the-improved-editor/README.md)
-1. [ ] [Navigating Your File](vim-the-improved-editor/README.md)
-1. [ ] [Manipulating Text](vim-the-improved-editor/README.md)
-1. [ ] [Copy, Paste, Search and Replace](vim-the-improved-editor/README.md)
-1. [ ] [Executing External Commands](vim-the-improved-editor/README.md)
-1. [ ] [Files and Buffers](vim-the-improved-editor/README.md)
-1. [ ] [Where Do I Go from Here?](vim-the-improved-editor/README.md)
-
 ## Topics
 
 ## References
 
 - [Vim Masterclass](https://www.udemy.com/course/vim-commands-cheat-sheet)
-- [Vim - The Improved Editor](https://linuxacademy.com/cp/modules/view/id/85)
